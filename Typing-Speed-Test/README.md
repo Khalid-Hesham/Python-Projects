@@ -14,7 +14,7 @@ This Python script allows you to test your typing speed. It calculates Words Per
 ## Installation
 Clone this repository and run the script:
 ```bash
-git clone https://github.com/Khalid-Hesham/Python-Projects/tree/main/Typing-Speed-Test.git
+git clone https://github.com/Khalid-Hesham/Python-Projects.git
 cd Typing-Speed-Test
 python typing_speed.py
 ```
