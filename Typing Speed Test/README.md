@@ -4,8 +4,12 @@ This Python script allows you to test your typing speed. It calculates Words Per
 
 ## Features
 - Real-time typing speed calculation
-- User-friendly interface
-- Accurate WPM and CPM measurement
+- Use of Python's `time` module for accurate timing
+- Implementation of a decorator for clean code structure
+
+## My Speed
+![alt text](my_speed.png)
+
 
 ## Installation
 Clone this repository and run the script:
@@ -14,6 +18,7 @@ git clone https://github.com/Khalid-Hesham/Python-Projects/Typing Speed Test.git
 cd Typing Speed Test
 python typing_speed.py
 ```
+
 ## Author
 
 - ***Khalid Hesham***
